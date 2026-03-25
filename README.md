@@ -15,7 +15,7 @@ AlumConnect is a national-level platform designed to bridge the communication ga
 ##  Information Architecture & User Flow
 I designed a comprehensive 20-frame user journey, ensuring seamless navigation from onboarding to advanced dashboard metrics.
 
-![User Flow Mapping](LINK_TO_YOUR_ZOOMED_OUT_WEB_IMAGE.png)
+![User Flow Mapping](https://github.com/Amrutha23max/AlumConnect-UI-UX/blob/main/AlumConnect.png)
 
 ---
 
@@ -29,7 +29,7 @@ The primary dashboard was designed to minimize click-depth, surfacing the most c
 ### 2. Career & Mentorship Portal
 Focused heavily on clean typography and visual hierarchy to ensure job postings and mentorship opportunities were highly readable and accessible.
 
-![Career Page UI](LINK_TO_YOUR_CAREER_PAGE_IMAGE.png)
+![Career Page UI](https://github.com/Amrutha23max/AlumConnect-UI-UX/blob/main/Frame%206.png)
 
 ---
 
