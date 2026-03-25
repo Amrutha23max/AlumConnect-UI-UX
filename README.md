@@ -24,7 +24,7 @@ I designed a comprehensive 20-frame user journey, ensuring seamless navigation f
 ### 1. The Dashboard Experience
 The primary dashboard was designed to minimize click-depth, surfacing the most critical data immediately (Active Jobs, Upcoming Events, and Direct Messages).
 
-![Dashboard UI](LINK_TO_YOUR_DASHBOARD_IMAGE.png)
+![Dashboard UI](https://github.com/Amrutha23max/AlumConnect-UI-UX/blob/main/INTRO%20PAGE.jpg)
 
 ### 2. Career & Mentorship Portal
 Focused heavily on clean typography and visual hierarchy to ensure job postings and mentorship opportunities were highly readable and accessible.
